@@ -19,5 +19,4 @@ void main()
 		draw(f * 2 -1);
 		printf("\n");
 	}
-	system("pause");
 }
