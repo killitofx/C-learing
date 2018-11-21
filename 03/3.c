@@ -17,6 +17,4 @@ loop:
 		printf("%.2f 减去 %.2f 的结果为%.2f\n", a, b, c);
 		goto loop;
 	}
-		
-	system("pause");
 }
